@@ -1,2 +1,2 @@
-# CodSoft-Internship
-Completed tasks for Web Development Internship at CodSoft.
+#CodeAlpha-Internship
+Completed tasks for Front Development Internship at Code Alpha.
